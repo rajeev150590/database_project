@@ -1,0 +1,6 @@
+[submodule "database"]
+	path = database
+	url = https://github.com/rajeev150590/database.git
+[submodule "rio"]
+	path = rio
+	url = https://github.com/rajeev150590/rio.git
